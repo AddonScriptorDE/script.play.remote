@@ -1,0 +1,6 @@
+<settings>
+   <setting id="ip" type="ipaddress" label="30001" default="" />
+   <setting id="port" type="number" label="30002" default="8080" />
+   <setting id="user" type="text" label="30003" default="xbmc" />
+   <setting id="pw" type="text" option="hidden" label="30004" default="" />
+</settings>
